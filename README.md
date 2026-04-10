@@ -1,5 +1,7 @@
 # Conversor de Temperaturas
 
+Projeto desenvolvido como prática de lógica de programação em Python.
+
 Este é um projeto em Python que realiza conversões de temperatura a partir de um valor em Celsius para as escalas Fahrenheit ou Kelvin. O programa funciona via terminal e permite ao usuário realizar múltiplas conversões com validação de entrada.
 
 ## Funcionalidades

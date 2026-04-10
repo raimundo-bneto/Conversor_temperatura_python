@@ -42,20 +42,7 @@ K = C + 273.15
 
 - Python
 
-## Como executar
-
-1. Tenha o Python instalado
-2. Execute o arquivo no terminal com o comando:
-python temperatura.py
-3. Siga as instruções exibidas pelo programa
-
 ## Observações
 
 Este projeto foi desenvolvido com foco em praticar conceitos fundamentais de programação, como funções, estruturas de repetição, condicionais e entrada/saída de dados.
 
-## Possíveis melhorias futuras
-
-- Permitir conversões entre outras escalas
-- Criar interface gráfica
-- Melhorar tratamento de erros
-- Organizar o código em módulos
